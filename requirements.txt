@@ -4,6 +4,7 @@ click==8.1.7
 colorama==0.4.6
 cssbeautifier==1.15.1
 Django==5.1.2
+djangorestframework==3.15.2
 djlint==1.35.4
 EditorConfig==0.12.4
 flake8==7.1.1
